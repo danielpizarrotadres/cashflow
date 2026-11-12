@@ -14,8 +14,9 @@ pasa si me equivoco y tengo que corregir o borrar un ingreso.
 
 ### 2. Guardar lo que gasto
 
-Lo mismo que los ingresos, pero para la plata que sale. Quizá ingresos y gastos sean la misma cosa
-con distinto signo; quizá no.
+Anotar la plata que sale: cuánto, cuándo y en qué. Los gastos son distintos de los ingresos y se
+registran por separado; todavía no definimos qué datos propios tiene un gasto (por ejemplo, el
+medio de pago).
 
 ### 3. Categorías
 
