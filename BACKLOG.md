@@ -42,15 +42,10 @@ tres meses más. Todavía no sabemos qué tan lejos tiene sentido proyectar.
 
 Ponerme un tope de gasto por categoría y enterarme cuando me acerco o lo paso.
 
-### 8. Más de una moneda
-
-A veces me pagan en dólares y gasto en pesos. Queremos registrar la moneda original, pero no
-definimos qué tipo de cambio usar ni cuándo se aplica.
-
-### 9. Exportar
+### 8. Exportar
 
 Sacar mis movimientos a un CSV o planilla para revisarlos fuera de cashflow o entregárselos a
-alguien (por ejemplo, para la declaración de impuestos).
+alguien.
 
 ## Preguntas abiertas
 
