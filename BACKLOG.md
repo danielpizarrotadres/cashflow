@@ -1,6 +1,6 @@
 # Backlog
 
-Lo que quiero que haga cashflow y todavía no está hecho. Las historias están escritas como se me
+Lo que quiero que haga spendlog y todavía no está hecho. Las historias están escritas como se me
 ocurrieron, sin especificar: antes de construir cualquiera hay que precisar qué significa
 «terminada».
 
@@ -30,7 +30,7 @@ arrastra lo que sobró (o faltó) del anterior.
 
 ### 5. Ingresos y gastos recurrentes
 
-El sueldo llega todos los meses y el arriendo se paga todos los meses. No quiero anotarlos a mano
+El sueldo llega todos los meses y el internet se paga todos los meses. No quiero anotarlos a mano
 cada vez, pero sí poder ajustar el monto cuando cambia.
 
 ### 6. Proyección
